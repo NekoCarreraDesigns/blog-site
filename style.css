@@ -19,3 +19,8 @@ h1 {
   border-style: double;
   border-radius: 10px;
 }
+
+.intro {
+  font-size: 20px;
+  color: blue;
+}
