@@ -11,3 +11,11 @@ h1 {
   background-color: blue;
   text-align: center;
 }
+
+.nav-item {
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+  border-style: double;
+  border-radius: 10px;
+}
